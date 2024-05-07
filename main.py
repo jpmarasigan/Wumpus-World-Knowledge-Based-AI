@@ -1,0 +1,6 @@
+'''
+
+    AYY, KULET NETO! SABING WALANG CODE E, 
+    PUMASOK KA PA TLGA DITO.
+
+'''
