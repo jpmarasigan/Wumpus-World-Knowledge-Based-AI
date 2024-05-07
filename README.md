@@ -1,3 +1,3 @@
-# Wumpus-World-Knowledge-Based-AI
+# Knowledge-Based AI Agent in Wumpus World Game
 
 Huli ka!, ano hinahalungkat mo dito?
