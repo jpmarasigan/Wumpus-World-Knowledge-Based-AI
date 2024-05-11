@@ -1,3 +1,10 @@
+'''
+    John Patrick I. Marasigan
+    BSCS-3B-M
+    MACHINE PROBLEM 5 - WUMPUS WORLD (AI)
+'''
+
+
 from time import sleep
 import random
 import pygame
