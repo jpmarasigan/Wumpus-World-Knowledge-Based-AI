@@ -9,4 +9,4 @@ To maximize the chances of survival and success, this project integrates a Knowl
 1. Clone this repository to your local machine.
 2. Make sure you have Python and Pygame installed.
 3. Run **_pip install pygame_** if Pygame is not installed.
-4. Navigate to the project directory and run python main.py to start the game.
+4. Navigate to the project directory and run python **_main.py_** to start the game.
