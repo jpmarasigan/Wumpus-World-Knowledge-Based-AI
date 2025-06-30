@@ -5,8 +5,15 @@ In the Wumpus World Game, the player controls an agent navigating through grid-b
 
 To maximize the chances of survival and success, this project integrates a Knowledge-Based AI using Rule of Inferences to gather perceptions and create decision making, where agent moves depends on the perception created from inferences.
 
+## Technology Used
+* Python
+* Pygame
+  
 ## Installation
 1. Clone this repository to your local machine.
-2. Make sure you have Python and Pygame installed.
-3. Run **_pip install pygame_** if Pygame is not installed.
-4. Navigate to the project directory and run python **_main.py_** to start the game.
+2. Install pygame if not installed.
+   ```bash
+   pip install pygame
+3. Run main script to start the game.
+   ```bash
+   python main.py
